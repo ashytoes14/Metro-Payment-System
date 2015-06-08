@@ -7,6 +7,7 @@ Variables
 Here are the variables in "MetroPaymentSystem.java:"
 SmartTrip st;
 JFrame frame;
+
 -----------------------------------------------------------------
 Here are the variables in "SmartTrip.java:"
 private int counter = 0;
